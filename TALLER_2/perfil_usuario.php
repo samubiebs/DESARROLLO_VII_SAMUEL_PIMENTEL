@@ -1,12 +1,12 @@
 <?php
 
-$nombre_completo = "Samuel Pimentel";
+$nombre_completo = "";
 $edad = 30;
-$correo = "samuel.pimentel@utp.ac.pa";
-$telefono = "6368-7024";
+$correo = "";
+$telefono = "";
 
 
-define("OCUPACION", "Estudiante de Desarrollo de Software");
+define("OCUPACION", "");
 
 
 echo "Nombre completo: " . $nombre_completo . "<br>";
